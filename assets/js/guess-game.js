@@ -2,10 +2,9 @@ let randomNumber = 0;
 let count = 0;
 const btnGuess = document.querySelector("#btn-guess");
 const btnStart = document.querySelector("#btn-start");
-const btnReset = document.querySelector
 const numEl = document.querySelector("#txtNumber");
 const labelEl = document.querySelector("#lblResult");
-const shotParent = document.querySelector("#shot")
+const shotParent = document.querySelector("#shot");
 
 
 
