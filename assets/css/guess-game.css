@@ -1,0 +1,32 @@
+body{
+    background-color: firebrick;
+}
+.main-container{
+    height: 80vh;
+}
+.container{
+    width: 50%;
+    background-color: wheat;
+}
+.btn button:first-child{
+    background-color: yellowgreen;
+
+}
+#txtNumber{
+    background-color: darksalmon;
+    width: 50%;
+    border-radius: 1rem;
+    padding: 0.35rem;
+}
+#lblResult{
+    border-radius: 2rem;
+    padding: 0.5rem 3rem;
+    font-weight: bolder;
+    font-size: larger;
+    text-transform: uppercase;
+    background-color: mediumaquamarine;
+    color: tomato;
+}
+#shot{
+    display: none;
+}
